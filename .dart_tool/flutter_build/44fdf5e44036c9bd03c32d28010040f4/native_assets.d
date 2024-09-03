@@ -1,0 +1,1 @@
+ /Users/nigammmmm/development/MemeApp/.dart_tool/flutter_build/44fdf5e44036c9bd03c32d28010040f4/native_assets.yaml: 
